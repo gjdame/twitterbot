@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjdame/twitterbot.git"
+  },
+  "author": "greg dame",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/gjdame/twitterbot/issues"
+  },
+  "dependencies": {
+    "twitter": "~1.7.1",
+    "twit": "~2.2.9"
+  }
+}
